@@ -1,0 +1,3 @@
+/code/json_demo/build/CMakeFiles/json_demo.dir
+/code/json_demo/build/CMakeFiles/edit_cache.dir
+/code/json_demo/build/CMakeFiles/rebuild_cache.dir
