@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project(JsonDemo)
+set(CMAKE_CXX_STANDATD 17)
+find_package(fmt REQUIRED)
+include_directories(include)
+add_executable(json_demo src/main.cpp)
+target_link_libraries(json_demo PRIVATE fmt::fmt)
